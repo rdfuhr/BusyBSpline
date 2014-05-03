@@ -15,3 +15,5 @@ Richards-iMac:BusyBSpline richardfuhr$ mvim README.txt
 
 Adding this line just to see if I will be reminded to push after commit.
 
+Yes, the push reminder is working.
+

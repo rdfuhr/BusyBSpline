@@ -13,3 +13,5 @@ Richards-iMac:BusyBSpline richardfuhr$ git init
 Initialized empty Git repository in /Users/richardfuhr/Dropbox/Public/Sandbox/javaScriptLearn/gitPractice/BusyBSpline/.git/
 Richards-iMac:BusyBSpline richardfuhr$ mvim README.txt
 
+Adding this line just to see if I will be reminded to push after commit.
+

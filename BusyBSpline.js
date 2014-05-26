@@ -1,4 +1,4 @@
-//Copyright (C) 2014 Richard David Fuhr - All rights reserved. -->
+//Copyright (C) 2014 Richard David Fuhr - All rights reserved.
 //richard.fuhr@gmail.com
 var Point = (function () {
     function Point(x, y) {

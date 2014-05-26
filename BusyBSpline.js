@@ -24,3 +24,10 @@
 //   -v, --version                 Print the compiler's version: 1.0.1.0
 //   -w, --watch                   Watch input files.
 //   @<file>                       Insert command line options and files from a file.
+var Point = (function () {
+    function Point(x, y) {
+        this.x = x;
+        this.y = y;
+    }
+    return Point;
+})();

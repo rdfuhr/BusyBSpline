@@ -29,4 +29,11 @@
 //   -w, --watch                   Watch input files.
 //   @<file>                       Insert command line options and files from a file.
 
-
+class Point
+{
+	constructor(public x: number,
+		        public y: number)
+	{
+		
+	}
+}
